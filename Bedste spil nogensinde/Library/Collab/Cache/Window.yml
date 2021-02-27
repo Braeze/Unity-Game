@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Tree.prefab
+    - Assets/Tree.prefab.meta
+    - Assets/Tree_Textures.meta
+    - Assets/Tree_Textures/diffuse.png
+    - Assets/Tree_Textures/diffuse.png.meta
+    - Assets/Tree_Textures/normal_specular.png
+    - Assets/Tree_Textures/normal_specular.png.meta
+    - Assets/Tree_Textures/shadow.png
+    - Assets/Tree_Textures/shadow.png.meta
+    - Assets/Tree_Textures/translucency_gloss.png
+    - Assets/Tree_Textures/translucency_gloss.png.meta
+    - 
+    m_Values: 000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
